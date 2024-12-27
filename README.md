@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kostiantyn</h1>
 <h3 align="center">A passionate java developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Horizone Project](https://github.com/OneMan3121/Horizone_Project)
+- 🔭 I’m currently working on University Project (Comming Soon)
 
 - 🌱 I’m currently learning **React**
 
